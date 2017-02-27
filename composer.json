@@ -1,6 +1,6 @@
 {
-    "name": "oryzone/oauth-user-data",
-    "description": "Extension library for Lusitanian/PHPoAuthLib to extract user profile data from various oAuth providers",
+    "name": "concrete5/oauth-user-data",
+    "description": "concrete5 Fork of Extension library for Lusitanian/PHPoAuthLib to extract user profile data from various oAuth providers",
     "keywords": ["oauth", "authentication", "authorization", "security", "profile", "user"],
     "homepage": "https://github.com/Oryzone/PHPoAuthUserData",
     "license": "MIT",
